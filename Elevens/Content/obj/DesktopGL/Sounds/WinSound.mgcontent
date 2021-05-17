@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/WinSound.wav</SourceFile>
+  <SourceTime>2020-02-14T00:07:14.4370623-05:00</SourceTime>
+  <DestFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/bin/DesktopGL/Sounds/WinSound.xnb</DestFile>
+  <DestTime>2020-02-15T21:40:06.8356279-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-02-06T19:09:19.7074773-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-02-06T19:09:19.7074773-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/BackgroundMusic.mp3</SourceFile>
+  <SourceTime>2020-02-13T23:25:12.5328177-05:00</SourceTime>
+  <DestFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/bin/DesktopGL/Sounds/BackgroundMusic.xnb</DestFile>
+  <DestTime>2020-02-15T21:40:05.8095693-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-02-06T19:09:19.7074773-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-02-06T19:09:19.7074773-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/bin/DesktopGL/Sounds/BackgroundMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

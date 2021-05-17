@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Fonts/File.xml</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Fonts/MessageFont.spritefont</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/BackgroundMusic.mp3</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/LoseSound.wav</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/NewCardSound.wav</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sounds/WinSound.wav</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sprites/backgroundImage.jpg</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sprites/CardBack.png</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sprites/CardFaces.png</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sprites/cursor.png</File>
+    <File>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Sprites/Square.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

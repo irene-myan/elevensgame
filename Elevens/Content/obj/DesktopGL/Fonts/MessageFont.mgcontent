@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/Fonts/MessageFont.spritefont</SourceFile>
+  <SourceTime>2020-02-13T12:54:04.1258505-05:00</SourceTime>
+  <DestFile>C:/Users/kmartirosyan/source/repos/Elevens/Elevens/Content/bin/DesktopGL/Fonts/MessageFont.xnb</DestFile>
+  <DestTime>2020-02-15T21:39:58.6091574-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-02-06T19:09:19.7074773-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-02-06T19:09:19.7074773-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
